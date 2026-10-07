@@ -117,6 +117,8 @@ R — Recovered (Выздоровевшие/Удаленные): люди, ко�
 
 ![Выполнение скрипта](image/7.png){#fig-006 width=70%}
 
+{{< include ../project/markdown/daisyworld/daisyworld.qmd >}}
+
 Создаем производные файлы ([рис. @fig-007]).
 
 ![Создание производных файлов](image/8.png){#fig-007 width=70%}
