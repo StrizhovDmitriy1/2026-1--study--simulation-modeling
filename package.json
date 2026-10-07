@@ -6,9 +6,13 @@
   "repository": "https://github.com/StrizhovDmitriy1/2026-1--study--simulation-modeling.git",
   "author": "Стрижов Дмитрий <dstrizov5@gmail.com>",
   "license": "CC-BY-4.0",
-    "config": {
-	"commitizen": {
-	    "path": "cz-customizable"
-	}
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-customizable"
     }
+  },
+  "devDependencies": {
+    "commitizen": "^4.3.2",
+    "cz-customizable": "^7.5.4"
+  }
 }
