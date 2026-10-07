@@ -146,6 +146,8 @@ graph TD
 
 \appendix
 
+{{< include ../project/markdown/01_exponential_growth/sir_ode.qmd >}}
+{{< include ../project/markdown/01_exponential_growth/lv_ode.qmd >}}
 # Что выносится в приложения {.appendix}
 
 При необходимости сюда выносятся:
